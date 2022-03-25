@@ -1,0 +1,3 @@
+[submodule "OTTER-Multicycle-Core"]
+	path = OTTER-Multicycle-Core
+	url = https://github.com/mmichilot/OTTER-Multicycle-Core.git
